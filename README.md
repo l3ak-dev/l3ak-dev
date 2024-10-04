@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @l3ak-dev
-- 👀 WORKING IN PROGRESS
+- 👀 WORKING IN GITHUB PROGRESS
 
 <!---
 l3ak-dev/l3ak-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
